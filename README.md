@@ -5,5 +5,5 @@ Left side is overall demographics on board.
 Right side demographics of survivors.
 You can filter on survived/drowned and see how that affects the overall demographics.  
 <img src="Capture.JPG">  
-Tableau link https://public.tableau.com/app/profile/ruchel.weissman/viz/TitanicData_17108845829940/DistributionofPassengersbyGender
-
+Tableau link 
+https://public.tableau.com/views/TitanicData_17108845829940/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
